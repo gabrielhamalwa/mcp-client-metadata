@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/gabrielhamalwa/mcp-client-metadata@main/mcp-client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/gabrielhamalwa/mcp-client-metadata@v1/mcp-client.json",
   "client_name": "Devin CLI (mcp-remote)",
   "redirect_uris": [
     "http://localhost:8976/oauth/callback",
